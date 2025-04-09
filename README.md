@@ -17,7 +17,7 @@ Este projeto demonstra testes automatizados de API utilizando **Postman** e exec
 
 ```bash
 git clone https://github.com/matheusgama30/testes-API-JSONPlaceholder.git
-cd projeto-testes-api-postman
+cd testes API - JSONPlaceholder-Postman
 ```
 
 ### 2. Instale o Node.js
