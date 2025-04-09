@@ -36,7 +36,7 @@ Execute clicando duas vezes no arquivo `run-tests.bat`, ou rodando via terminal:
 ```
 Esse comando executa a coleção com o reporter HTMLEXTRA e gera um relatório em HTML na pasta newman.
 
-![Teste](./testes%20API%20-%20JSONPlaceholder-Postman/Imagens/HTMLEXTRArelatório2.png)
+![Teste](./testes%20API%20-%20JSONPlaceholder-Postman/Imagens/HTMLEXTRArelatório1.png)
 ![Teste](./testes%20API%20-%20JSONPlaceholder-Postman/Imagens/HTMLEXTRArelatório2.png)
 
 #### 4.2. 💻 Executar via CLI - Newman
