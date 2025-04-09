@@ -16,7 +16,7 @@ Este projeto demonstra testes automatizados de API utilizando **Postman** e exec
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-testes-api-postman.git
+git clone https://github.com/matheusgama30/testes-API-JSONPlaceholder.git
 cd projeto-testes-api-postman
 ```
 
@@ -36,8 +36,8 @@ Execute clicando duas vezes no arquivo `run-tests.bat`, ou rodando via terminal:
 ```
 Esse comando executa a coleção com o reporter HTMLEXTRA e gera um relatório em HTML na pasta newman.
 
-![Teste](./Imagens/HTMLEXTRArelatório1.png)
-![Teste](./Imagens/HTMLEXTRArelatório2.png)
+![Teste](./testes%20API%20-%20JSONPlaceholder-Postman/Imagens/HTMLEXTRArelatório2.png)
+![Teste](./testes%20API%20-%20JSONPlaceholder-Postman/Imagens/HTMLEXTRArelatório2.png)
 
 #### 4.2. 💻 Executar via CLI - Newman
 Se você quiser apenas rodar os testes diretamente pelo terminal sem gerar relatório em HTML, use o comando abaixo:
@@ -48,7 +48,7 @@ newman run "testes-api-jsonplaceholder.postman_collection.json"
 
 Esse comando exibe os resultados diretamente no terminal.
 
-![Teste](./Imagens/testesExecutadosCLI.png)
+![Teste](./testes%20API%20-%20JSONPlaceholder-Postman/Imagens/testesExecutadosCLI.png)
 
 #### 4.3. 🧪 Executar via Postman (manual)
 1. Abra o Postman
@@ -63,7 +63,7 @@ Esse comando exibe os resultados diretamente no terminal.
 
 5. Clique em "Run testes API - JSONPlaceholder"
 
-![Teste](./Imagens/testesExecutadosPostman.png)
+![Teste](./testes%20API%20-%20JSONPlaceholder-Postman/Imagens/testesExecutadosPostman.png)
 
 ## 📋 Testes Implementados
 
@@ -81,4 +81,4 @@ A coleção inclui os seguintes testes:
 
 ### Autor
 Matheus Gama -->
-[Linkedin](https://www.linkedin.com/in/matheusmsg30/)
+<a href="https://www.linkedin.com/in/matheusmsg30/" target="_blank">LinkedIn</a>
